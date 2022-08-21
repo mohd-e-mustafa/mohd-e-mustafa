@@ -9,4 +9,6 @@ Experience in implementing the best Software Engineering Life Cycles including A
 Development Methodology, SCRUM, and Extreme Programming to improve software quality and
 team's working throughput.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd-e-mustafa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
