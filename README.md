@@ -9,7 +9,7 @@ Experience in implementing the best Software Engineering Life Cycles including A
 Development Methodology, SCRUM, and Extreme Programming to improve software quality and
 team's working throughput.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohd-e-mustafa&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohd-e-mustafa&repo=github-readme-stats)](https://github.com/mohd-e-mustafa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-e-mustafa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
